@@ -23,7 +23,7 @@ header {
 nav {
   margin: 1em;
 }
-nav ul {
+nav ul, ul {
   list-style-type: none;
   margin: 0;
   display: flex;
@@ -63,3 +63,15 @@ h2 {
     font-weight: 200;
     color: #ed7c0d;
 }
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: aliceblue;
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+}
+footer a { padding: 0 15px; }
