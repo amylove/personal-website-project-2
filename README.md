@@ -8,3 +8,6 @@ portfolio.html (my work)
 
 Everything will be styles with the styles.css file
 There will be a basic javascript file to start
+
+Project board:
+https://github.com/orgs/Personal-website-adam-amy/projects/1
