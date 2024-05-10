@@ -7,4 +7,4 @@ about. html (about me)
 portfolio.html (my work)
 
 Everything will be styles with the styles.css file
-There will be a basic javascript file to start# block10
+There will be a basic javascript file to start
