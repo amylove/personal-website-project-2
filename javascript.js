@@ -5,6 +5,6 @@ window.onload=function(){
     form.addEventListener('submit', (e) => {
     submitButton.disabled = true
     e.preventDefault()
-    window.location.href = window.location.origin + '/success.html'
+    window.location.href = window.location.origin + '/personal-web-project-2/contact.html'
     })
 }
