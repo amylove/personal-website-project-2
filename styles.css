@@ -132,9 +132,7 @@ p {
 }
 
 /* Form */
-* {
-    box-sizing: border-box; 
-   }
+
    .form-wrapper {
      display: flex;
      border-radius: 3px;
