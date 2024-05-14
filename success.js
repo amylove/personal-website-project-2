@@ -1,4 +1,4 @@
 setTimeout(() => {
-    window.location.href = window.location.origin + '/personal-web-project-2/index.html'
-  })
+    window.location.href = window.location.origin
+    console.log("Hello")
   }, 5000)
